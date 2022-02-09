@@ -1,0 +1,3 @@
+src/Application.vala
+data/hello-world.desktop.in
+data/hello-world.metainfo.xml.in
