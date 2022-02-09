@@ -1,1 +1,2 @@
-# elementary-app-template
+# elementary App Template
+

@@ -1,0 +1,6 @@
+*~
+build/*
+.flatpak-builder/*
+.*
+!.gitignore
+!.editorconfig
