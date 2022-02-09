@@ -1,7 +1,17 @@
 # elementary App Template
 
-Based on the documentation at https://docs.elementary.io/develop/ this elementary OS app template is ready to hack.
-Simply download the latest release, unpack it and your ready to develop apps for elementary OS.
+_a template to develop apps for [elementary OS](https://elementary.io/) and its AppCenter_
+
+This template is based on the official [elementary Developer Documentation](https://docs.elementary.io/develop/). Simply download it and your ready to hack!
+
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [Build System](#build-system)
+- [Translations](#translations)
+- [Icons](#icons)
+- [Packaging](#packaging)
+- [Testing](#testing)
 
 ## Prerequisites
 
@@ -75,10 +85,12 @@ flatpak-builder build com.github.yourusername.yourrepositoryname.yml --user --in
 flatpak uninstall com.github.yourusername.yourrepositoryname --user
 ```
 
-## Unit Testing
+## Testing
+
+### Unit Testing
 
 `// TODO`
 
-## UI Testing
+### UI Testing
 
 `// TODO`
