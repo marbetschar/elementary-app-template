@@ -1,6 +1,6 @@
 # elementary App Template
 
-_a template to develop apps for [elementary OS](https://elementary.io/) and its AppCenter_
+_a template to develop Apps for [elementary OS](https://elementary.io/) and its AppCenter_
 
 This template is based on the official [elementary Developer Documentation](https://docs.elementary.io/develop/). Simply download it and your ready to hack!
 
