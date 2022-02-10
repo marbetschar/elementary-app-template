@@ -1,3 +1,3 @@
 src/Application.vala
-data/hello-world.desktop.in
-data/hello-world.metainfo.xml.in
+data/com.github.yourusername.yourrepositoryname.desktop.in
+data/com.github.yourusername.yourrepositoryname.metainfo.xml.in
