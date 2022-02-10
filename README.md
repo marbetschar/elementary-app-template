@@ -89,7 +89,11 @@ flatpak uninstall com.github.yourusername.yourrepositoryname --user
 
 ### Unit Testing
 
-`// TODO`
+To run the Unit Tests, you can execute the following command from the project root:
+
+```bash
+ninja -C build test
+```
 
 ### UI Testing
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: com.github.yourusername.yourrepositoryname\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-09 20:41+0100\n"
+"POT-Creation-Date: 2022-02-10 22:06+0100\n"
 "PO-Revision-Date: 2022-02-09 20:41+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,19 +17,25 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: data/hello-world.desktop.in:6 data/hello-world.metainfo.xml.in:5
+#: src/Application.vala:48
+msgid "Hello World"
+msgstr "Hallo Welt"
+
+#: data/com.github.yourusername.yourrepositoryname.desktop.in:6
+#: data/com.github.yourusername.yourrepositoryname.metainfo.xml.in:5
 msgid "My App"
-msgstr ""
+msgstr "Meine App"
 
-#: data/hello-world.desktop.in:7 data/hello-world.metainfo.xml.in:6
+#: data/com.github.yourusername.yourrepositoryname.desktop.in:7
+#: data/com.github.yourusername.yourrepositoryname.metainfo.xml.in:6
 msgid "Proves that we can use Vala and Gtk"
+msgstr "Beweist, dass wir Vala und Gtk kennen"
+
+#: data/com.github.yourusername.yourrepositoryname.desktop.in:10
+msgid "com.github.yourusername.yourrepositoryname"
 msgstr ""
 
-#: data/hello-world.desktop.in:10
-msgid "com.github.myteam.myapp"
-msgstr ""
-
-#: data/hello-world.metainfo.xml.in:12
+#: data/com.github.yourusername.yourrepositoryname.metainfo.xml.in:12
 msgid ""
 "A quick summary of your app's main selling points and features. Just a "
 "couple sentences per paragraph is best"
