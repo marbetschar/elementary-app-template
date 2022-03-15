@@ -6,18 +6,18 @@
 int main(string[] args) {
     Test.init (ref args);
 
-    Test.add_func("/Counter/init", () => {
+    Test.add_func("/Tests/Counter/init", () => {
         var counter = new Counter ();
         assert_true (0 == counter.value);
     });
 
-    Test.add_func("/Counter/increment", () => {
+    Test.add_func("/Tests/Counter/increment", () => {
         var counter = new Counter ();
         counter.increment ();
         assert_true (1 == counter.value);
     });
 
-    Test.add_func("/Counter/decrement", () => {
+    Test.add_func("/Tests/Counter/decrement", () => {
         var counter = new Counter ();
         counter.decrement ();
         assert_true (-1 == counter.value);

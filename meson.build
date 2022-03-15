@@ -17,6 +17,7 @@ executable(
     meson.project_name(),
     'src' / 'Application.vala',
     'src' / 'Counter.vala',
+    'src' / 'CounterWidget.vala',
     dependencies: deps,
     install: true
 )
